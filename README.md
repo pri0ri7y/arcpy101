@@ -16,6 +16,6 @@ ArcPy| ARCPY101
 ###Deployment
 <p>
 Take the entire source and publish it as an application in IIS.<br/>
-<a href="http://forums.iis.net/t/1122937.aspx" target="_blank">Python has to handled via CGI.</a>
-
+After adding a new application , <a href="http://forums.iis.net/t/1122937.aspx" target="_blank">python has to configured in IIS by python CGI script map</a> for the given application. <br/>
 </p>
+
